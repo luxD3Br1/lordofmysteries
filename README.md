@@ -1,0 +1,2 @@
+# LordOfMysteries
+first static page
